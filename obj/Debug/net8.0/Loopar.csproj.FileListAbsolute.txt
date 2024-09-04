@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Loopar\bin\Debug\net8.0\Loopar.exe
+C:\Users\Admin\Documents\GitHub\Loopar\bin\Debug\net8.0\Loopar.deps.json
+C:\Users\Admin\Documents\GitHub\Loopar\bin\Debug\net8.0\Loopar.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Loopar\bin\Debug\net8.0\Loopar.dll
+C:\Users\Admin\Documents\GitHub\Loopar\bin\Debug\net8.0\Loopar.pdb
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.dll
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\refint\Loopar.dll
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.pdb
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\ref\Loopar.dll
