@@ -27,5 +27,5 @@ while(tal <=101)
 {
     Console.WriteLine(tal);
     tal++;
-} //jag är kort
+}
 
