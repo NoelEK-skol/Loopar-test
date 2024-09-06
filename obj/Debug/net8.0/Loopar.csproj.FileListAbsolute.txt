@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\refint\Loopar.dll
 C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.pdb
 C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\ref\Loopar.dll
+C:\Users\Admin\Documents\GitHub\Loopar\obj\Debug\net8.0\Loopar.sourcelink.json
