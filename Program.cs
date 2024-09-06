@@ -10,8 +10,8 @@ while(tal <= 20)
 
 }*/
 
-
-// for(int i = 1; i <= 20; i++) Console.WriteLine(i);
+/*
+ for(int i = 1; i <= 20; i++) Console.WriteLine(i); */
 
 
 
@@ -23,9 +23,13 @@ Programmet ska sedan skriva ut alla heltal mellan de tal användaren skrev in oc
 
 Console.WriteLine("Skriv ett tal mellan 1 och 100!");
 int tal = int.Parse(Console.ReadLine()) +1;
-while(tal <=101)
-{
-    Console.WriteLine(tal);
-    tal++;
-}
+if(tal > 101)
+    {
+        Console.WriteLine("fel, ett tal mellan 1 och 100 tack!");
+    }
 
+while(tal <=101)
+    {
+        Console.WriteLine(tal);
+        tal++;
+    }
